@@ -1,0 +1,30 @@
+Index: README.TXT
+===================================================================
+diff --git a/README.TXT b/README.TXT
+deleted file mode 100644
+--- a/README.TXT	(revision 7f2d2a4d65743e0a2ad7ef2aa36f9cba25624414)
++++ /dev/null	(revision 7f2d2a4d65743e0a2ad7ef2aa36f9cba25624414)
+@@ -1,1 +0,0 @@
+-Close
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+--- a/.idea/.gitignore	(revision 7f2d2a4d65743e0a2ad7ef2aa36f9cba25624414)
++++ b/.idea/.gitignore	(date 1646946568146)
+@@ -1,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
+Index: Who.txt
+===================================================================
+diff --git a/Who.txt b/Who.txt
+deleted file mode 100644
+--- a/Who.txt	(revision 7f2d2a4d65743e0a2ad7ef2aa36f9cba25624414)
++++ /dev/null	(revision 7f2d2a4d65743e0a2ad7ef2aa36f9cba25624414)
+@@ -1,1 +0,0 @@
+-124
+\ No newline at end of file

@@ -1,1 +1,1 @@
-# sltgBot
+# slrgBot
